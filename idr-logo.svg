@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="Institute of Digital Risk full logo">
+
+  <!-- =============================================
+       IDR FULL LOGO — Icon + Wordmark
+       Left: isometric cube icon
+       Right: "IDR" monogram + full name
+       ============================================= -->
+
+  <!-- === CUBE ICON === -->
+  <!-- Top face (orange) -->
+  <polygon points="32,6  56,20  32,34  8,20" fill="#ff6b00"/>
+  <!-- Left face (black) -->
+  <polygon points="8,20  32,34  32,58  8,44" fill="#111111"/>
+  <!-- Right face (grey) -->
+  <polygon points="56,20  32,34  32,58  56,44" fill="#444444"/>
+  <!-- Inner diamond -->
+  <polygon points="32,14  44,21  32,28  20,21"
+    fill="none" stroke="#ffffff" stroke-width="1.2" opacity="0.55"/>
+  <!-- Nucleus -->
+  <circle cx="32" cy="21" r="2.5" fill="#ffffff" opacity="0.8"/>
+
+  <!-- === WORDMARK === -->
+
+  <!-- "IDR" — large bold monogram -->
+  <text
+    x="72" y="32"
+    font-family="'Barlow', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="800"
+    font-size="24"
+    letter-spacing="4"
+    fill="#111111">IDR</text>
+
+  <!-- Orange underline accent -->
+  <rect x="72" y="37" width="80" height="2.5" fill="#ff6b00" rx="1"/>
+
+  <!-- "INSTITUTE OF DIGITAL RISK" — small caps subtitle -->
+  <text
+    x="72" y="54"
+    font-family="'Barlow', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="400"
+    font-size="9.5"
+    letter-spacing="2.8"
+    fill="#555555">INSTITUTE OF DIGITAL RISK</text>
+
+</svg>
